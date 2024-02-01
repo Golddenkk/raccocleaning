@@ -1,0 +1,12 @@
+{
+	"name": "acf/services-block",
+	"title": "Home Page Services Block",
+	"description": "Home Page Services Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/services-block/services-block.php"
+	}
+}

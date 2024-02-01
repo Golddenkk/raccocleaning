@@ -1,0 +1,12 @@
+{
+	"name": "acf/reviews-block",
+	"title": "Home Page Reviews Block",
+	"description": "Home Page Reviews Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/reviews-block/reviews-block.php"
+	}
+}

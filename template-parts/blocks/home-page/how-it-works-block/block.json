@@ -1,0 +1,12 @@
+{
+	"name": "acf/how-it-works-block",
+	"title": "Home Page How Does It Works Block",
+	"description": "Home Page How Does It Works Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/how-it-works-block/how-it-works-block.php"
+	}
+}

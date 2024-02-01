@@ -1,0 +1,12 @@
+{
+	"name": "acf/reasons-block",
+	"title": "Home Page Reasons Block",
+	"description": "Home Page Reasons Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/reasons-block/reasons-block.php"
+	}
+}

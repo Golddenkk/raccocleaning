@@ -1,0 +1,12 @@
+{
+	"name": "acf/promo-block",
+	"title": "Home Page Promo Block",
+	"description": "Home Page Promo Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/promo-block/promo-block.php"
+	}
+}

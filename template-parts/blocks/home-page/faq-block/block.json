@@ -1,0 +1,12 @@
+{
+	"name": "acf/faq-block",
+	"title": "Home Page FAQ Block",
+	"description": "Home Page FAQ Block",
+	"category": "raccocleaning",
+	"icon": "align-left",
+	"keywords": ["company-type"],
+	"acf": {
+		"mode": "edit",
+		"renderTemplate": "template-parts/blocks/home-page/faq-block/faq-block.php"
+	}
+}
